@@ -3,15 +3,25 @@
    font-size: 12px;
    border-style: solid;
    width: 50%;
+   border-color: red;
+   background-color: orange;
+   color: gray;
 }
 #computer-skills{
    font-family: "Papyrus", fantasy;
    font-size: 12px;
    border-style: solid;
    width: 50%;
+   border-color: green;
+   background-color: lightblue;
+   color: violet;
 }
 
 div.skills-wrapper{
    float: left;
    padding: 15px;
+}
+
+#skills-header{
+   background-color: yellow;
 }
