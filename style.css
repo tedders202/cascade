@@ -11,3 +11,8 @@
    width: 50%;
    text-align: center;
 }
+
+div.skills-wrapper{
+   float: left;
+   padding: 15px;
+}
