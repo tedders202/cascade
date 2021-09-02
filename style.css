@@ -18,8 +18,9 @@
 }
 
 div.skills-wrapper{
-   float: left;
-   padding: 15px;
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+   grid-gap: 20px;
 }
 
 #skills-header{
